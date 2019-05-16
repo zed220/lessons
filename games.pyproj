@@ -30,6 +30,7 @@
   <ItemGroup>
     <Content Include="1\artemTest.py" />
     <Content Include="2\artem2.py" />
+    <Content Include="3\beep.mp3" />
     <Content Include="3\petr.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
