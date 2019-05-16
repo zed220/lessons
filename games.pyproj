@@ -25,12 +25,10 @@
     <Compile Include="2\main.py" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="1" />
-  </ItemGroup>
-  <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.7" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1\artemTest.py" />
     <Content Include="2\artem2.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
